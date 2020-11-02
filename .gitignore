@@ -6,3 +6,7 @@ local.txt
 
 *.exe
 *.out
+
+# CMake
+build/
+cmake-build-debug/
