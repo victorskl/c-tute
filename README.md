@@ -1,3 +1,3 @@
-#c-tute
+# c-tute
 
-C programming
+Assorted C tutes
