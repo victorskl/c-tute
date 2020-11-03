@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.17)
+project(c-tute C)
+set(CMAKE_C_STANDARD 99)
+add_subdirectory("${PROJECT_SOURCE_DIR}/gs_cmake" "${PROJECT_SOURCE_DIR}/gs_cmake/build")
+add_subdirectory("${PROJECT_SOURCE_DIR}/gs_cmake_clion" "${PROJECT_SOURCE_DIR}/gs_cmake_clion/build")
